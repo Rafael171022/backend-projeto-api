@@ -24,3 +24,7 @@
 - Pasta projeto API Delphi
 - Executável da API Delphi
 - Pasta projeto API Java
+
+## Iniciar o Servidor de API Delphi
+- Coloque a pasta API-Delphi no disco local "C" para o programa visualizar o ini de configuração
+

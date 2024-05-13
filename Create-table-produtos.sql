@@ -15,3 +15,10 @@ CREATE TABLE [dbo].[Produtos](
 GO
 
 
+INSERT INTO [api_backend] ([cod_produto],[desc_produto],[cod_ean13],[preco],[dt_cadastro],[dt_alteracao]) 
+VALUES ('1','Coca-cola 2 Lts','7891234567890',8.98,'2024-05-13','2024-05-13')
+GO
+
+INSERT INTO [api_backend] ([cod_produto],[desc_produto],[cod_ean13],[preco],[dt_cadastro],[dt_alteracao]) 
+VALUES ('1','Coca-cola 3 Lts','7891234567891',10.98,'2024-05-13','2024-05-13')
+GO
